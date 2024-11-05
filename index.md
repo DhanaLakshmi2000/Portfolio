@@ -14,8 +14,18 @@ Computer Science graduate student at the University of Central Missouri, special
 
 ## Professional Experience
 
-In my one and half years as a Data Engineer, I’ve cultivated a deep passion for data architecture, data management, ETL processes, and data analysis. My journey began at Advanced Business and health Care solutions, where I honed my skills in writing complex SQL Queries, data visualization using Power BI and SQL. I excelled in utilizing MS Excel for complex data analysis, delivering actionable insights that resulted in a 90% client satisfaction rate.
-My Data Engineer experience at Advanced Business and health Care solutions was a pivotal experience in my career. I applied Agile methodologies to enhance ETL pipelines using Informatica, Spark, and Scala, reducing data processing errors by 50%. Additionally, I contributed to bolstering data security through Python scripts. My proficiency in cloud engineering, AWS EMR Glue Jobs and Power BI helped increase operational efficiency by 40%, as I played a key role in optimizing data workflows and integration strategies.
+- **Advanced Business and Health Care Solutions — Associate Software Engineer -**
+- **Bangalore, India | Feb 2022 – Jul 2023 -**
+- Developed responsive UI components and enhanced application security with Multi-Factor Authentication in Java.
+- Optimized SQL Server performance and collaborated in Agile teams using Jira for continuous integration.
+- Conducted code reviews and unit testing to ensure high-quality software delivery.
+
+- **The Internship Studio — ML Intern -**
+- **Hyderabad, India | Jul 2020 - Aug 2020 -**
+- Applied data preprocessing techniques and performed exploratory data analysis on automotive market data.
+- Supported predictive modeling efforts through feature-price relationship analysis and data visualization.
+- This version maintains the essential details while being concise, making it suitable for your portfolio.
+
 
 ## Projects
 
