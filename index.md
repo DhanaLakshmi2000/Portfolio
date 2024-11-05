@@ -27,7 +27,7 @@ Computer Science graduate student at the University of Central Missouri, special
 
 ## Projects
 
-### [Exploratory Data Analysis of Car]
+### Exploratory Data Analysis of Car
 
 <!-- (https://www.dropbox.com/scl/fi/3dtvuexqvhopdfrbvt7ke/Store_prediction_model.pdf?rlkey=sfg0ewecb7g05okwevy0140wb&dl=0) -->
 
