@@ -14,7 +14,7 @@ Computer Science graduate student at the University of Central Missouri, special
 
 ## Professional Experience
 
-- **Advanced Business and Health Care Solutions — Associate Software Engineer -** **Bangalore, India | Feb 2022 – Jul 2023 -**
+- **Advanced Business and Health Care Solutions — Associate Software Engineer -** Bangalore, India | Feb 2022 – Jul 2023 
 - Developed responsive UI components and enhanced application security with Multi-Factor Authentication in Java.
 - Optimized SQL Server performance and collaborated in Agile teams using Jira for continuous integration.
 - Conducted code reviews and unit testing to ensure high-quality software delivery.
