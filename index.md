@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Dhana Lakshmi Nangunuri
+title: Dhanalakshmi Nangunuri
 ---
 
-# Dhana Lakshmi Nangunuri
+# Dhanalakshmi Nangunuri
 
 ## About Me
 
