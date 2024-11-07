@@ -31,7 +31,7 @@ Computer Science graduate student at the University of Central Missouri, special
 
 - I focused on data pre-processing to ensure the dataset was accurately formatted and ready for analysis. I conducted exploratory data analysis (EDA) to investigate the relationships between various car features and their market prices. Utilizing the "Car Features and MSRP" dataset from Kaggle, which encompasses nearly 12,000 car models sold in the USA from 1990 to 2017, I applied descriptive statistics and visualizations to uncover hidden insights and trends in the data, including both new and used market prices. This project enhanced my ability to extract valuable information from complex datasets and informed decision-making processes in the automotive domain.
 
-### [Exploring GCP Components for Data Ingestion & Analytics] (https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?pli=1&tab=t.0)
+### [Exploring GCP Components for Data Ingestion & Analytics] (https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?usp=sharing)
 
 The overall objective is to ingest Yelp batch data from GCS to BigQuery through scheduling jobs in GCP Composer/Airflow using DAG’s and creating a data pipeline in Dataflow. The source data file format we receive to the GCS bucket is json files. We need to parse the json in the Dataflow template and load the data to BQ tables
 
