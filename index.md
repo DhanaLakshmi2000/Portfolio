@@ -7,7 +7,7 @@ title: Dhanalakshmi Nangunuri
 
 ## About Me
 
-Computer Science graduate student at the University of Central Missouri, specializing in data engineering and full-stack development. With 1.5 years of experience as an Associate Software Engineer, I bring expertise in Java, Python, SQL, and web technologies.
+Computer Science graduate student at the University of Central Missouri, with a focus on data engineering and analytics. With 1.5 years of experience as an Associate Software Engineer, I bring expertise in designing efficient data pipelines, optimizing data workflows, and applying data-driven insights using Java, Python, SQL, and GCP technologies.
 
 - **email -** nangunuri.dhanalakshmi@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-nangunuri/)
@@ -15,41 +15,46 @@ Computer Science graduate student at the University of Central Missouri, special
 ## Professional Experience
 
 **Advanced Business and Health Care Solutions — Associate Software Engineer -** Bangalore, India | Feb 2022 – Jul 2023 
-- Developed responsive UI components and enhanced application security with Multi-Factor Authentication in Java.
-- Optimized SQL Server performance and collaborated in Agile teams using Jira for continuous integration.
-- Conducted code reviews and unit testing to ensure high-quality software delivery.
+- Developed responsive UI components and improved application security through Multi-Factor Authentication, enhancing both usability and protection.
+- Optimized SQL Server performance, ensuring efficient data handling and retrieval.
+- Collaborated within Agile teams using Jira, focusing on continuous integration and seamless deployment of data-centric applications.
+- Conducted rigorous code reviews and unit testing to maintain high-quality, reliable software.
 
 **The Internship Studio — ML Intern -** Hyderabad, India | Jul 2020 - Aug 2020 
-- Applied data preprocessing techniques and performed exploratory data analysis on automotive market data.
-- Supported predictive modeling efforts through feature-price relationship analysis and data visualization.
-- This version maintains the essential details while being concise, making it suitable for your portfolio.
-
+- Applied data preprocessing techniques and performed exploratory data analysis (EDA) on automotive market data, uncovering insights into the feature-price relationships.
+- Supported predictive modeling efforts, utilizing statistical analysis and data visualization to deliver insights for market-based decision-making.
 
 ## Projects
 
 ### Exploratory Data Analysis of Car
 
-- I focused on data pre-processing to ensure the dataset was accurately formatted and ready for analysis. I conducted exploratory data analysis (EDA) to investigate the relationships between various car features and their market prices. Utilizing the "Car Features and MSRP" dataset from Kaggle, which encompasses nearly 12,000 car models sold in the USA from 1990 to 2017, I applied descriptive statistics and visualizations to uncover hidden insights and trends in the data, including both new and used market prices. This project enhanced my ability to extract valuable information from complex datasets and informed decision-making processes in the automotive domain.
+**Objective: -**  Conducted comprehensive data preprocessing and EDA to analyze car features and their relationship to market prices. Leveraged the Kaggle “Car Features and MSRP” dataset to uncover key trends, including price dynamics across new and used vehicles in the U.S. from 1990 to 2017.
+**Tech Stack: -** Python, Pandas, Seaborn, Matplotlib.
+This project deepened my expertise in working with complex datasets, performing descriptive statistics, and visualizing insights to support data-informed decision-making.
 
 ### [Exploring GCP Components for Data Ingestion & Analytics](https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?usp=sharing)
 
-The overall objective is to ingest Yelp batch data from GCS to BigQuery through scheduling jobs in GCP Composer/Airflow using DAG’s and creating a data pipeline in Dataflow. The source data file format we receive to the GCS bucket is json files. We need to parse the json in the Dataflow template and load the data to BQ tables
+**Objective: -** Designed a scalable data pipeline for ingesting Yelp batch data from Google Cloud Storage to BigQuery, utilizing Airflow DAGs and Dataflow. The pipeline parses JSON files stored in GCS and loads them into BigQuery for analytical processing.
+**Tech Stack: -** GCP (BigQuery, GCS, Composer, Dataflow), Apache Beam, Python.
+This project enhanced my skills in using GCP for data ingestion, managing data workflows, and ensuring seamless data transfer for downstream analytics.
 
 ### Library management system
 
-- A Library Management System (LMS) is a web-based application designed to effectively manage library resources and services. For frontend development, HTML is utilized for the structure of web pages, CSS for styling and layout, and JavaScript for dynamic and interactive features such as search functionality and user authentication. On the backend, PHP serves as the server-side programming language that creates dynamic web pages, facilitating user authentication, data processing, and database connectivity. The system employs SQL as its database management solution, which manages the relational database containing information on books, borrowers, transactions, and more.
+**Objective: -** Developed a web-based Library Management System for managing resources and user interactions. Built a robust backend using PHP and SQL, supporting dynamic content, user authentication, and a relational database.
+**Tech Stack: -** HTML, CSS, JavaScript, PHP, SQL.
+This project showcased my full-stack skills, including database management and user-centric interface design.
 
 ### Exchequer
 
-- Contributed to software development in an Agile team, implementing features in Java and C/C++.
-- Performed unit and integration testing to ensure feature reliability and collaborated in code reviews.
-- Used Git for version control and collaborated across multi-site teams to troubleshoot issues and enhance system functionality.
+**Objective: -** Collaborated in an Agile team to implement and test key features in Java and C/C++.
+**Role: -** Handled Bugs, Implemented new MFA Functionality using Java, Conducted unit and integration testing for reliability, participated in code reviews, and used Git for version control.
+This project refined my skills in multi-site team collaboration and maintaining code quality in complex systems.
 
 ## Publications
 
-- A Platform-Agnostic Framework for Automatically Identifying Performance Issues Reports with Heuristic Linguistic Patterns
-- Role: Data Validator
-- Description: Collaborated with a professor on a paper published on IEEE Xplore. Assisted in validating data to support the development of a framework for automatically identifying performance issues in reports using heuristic linguistic patterns.
+- **A Platform-Agnostic Framework for Automatically Identifying Performance Issues Reports with Heuristic Linguistic Patterns -**
+  **Role: -** Data Validator
+  ** Description: -** Collaborated with a professor on a paper published on IEEE Xplore. Assisted in validating data to support the development of a framework for automatically identifying performance issues in reports using heuristic linguistic patterns.
 - [Check it out!](https://ieeexplore.ieee.org/abstract/document/10504708)
 
 ## Certifications
