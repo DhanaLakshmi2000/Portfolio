@@ -6,8 +6,7 @@ title: Dhanalakshmi Nangunuri
 # Dhanalakshmi Nangunuri
 
 ## About Me
-
-Computer Science graduate student at the University of Central Missouri, with a focus on data engineering and analytics. With 1.5 years of experience as an Associate Software Engineer, I bring expertise in designing efficient data pipelines, optimizing data workflows, and applying data-driven insights using Java, Python, SQL, and GCP technologies.
+I am a Computer Science graduate student at the University of Central Missouri, specializing in data engineering and analytics. With 1.5 years of experience as an Associate Software Engineer, I have honed my skills in designing efficient data pipelines, optimizing workflows, and leveraging data-driven insights using technologies like Java, Python, SQL, and Google Cloud Platform (GCP). I am passionate about solving complex problems and building scalable data solutions that empower informed decision-making.
 
 - **email -** nangunuri.dhanalakshmi@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-nangunuri/)
@@ -15,40 +14,37 @@ Computer Science graduate student at the University of Central Missouri, with a 
 ## Professional Experience
 
 **Advanced Business and Health Care Solutions — Associate Software Engineer -** Bangalore, India | Feb 2022 – Jul 2023 
-- Developed responsive UI components and improved application security through Multi-Factor Authentication, enhancing both usability and protection.
-- Optimized SQL Server performance, ensuring efficient data handling and retrieval.
-- Collaborated within Agile teams using Jira, focusing on continuous integration and seamless deployment of data-centric applications.
-- Conducted rigorous code reviews and unit testing to maintain high-quality, reliable software.
+- Designed and implemented data pipelines for efficient ETL processes, enhancing data quality and accessibility.
+- Developed and optimized SQL queries, improving database performance by 20% and ensuring efficient data handling.
+- Built RESTful APIs using Java and Spring Boot to enable seamless data flow between systems.
+- Collaborated on full-stack development projects, leveraging data engineering expertise to integrate back-end Java services with React.js front-end components.
+- Utilized Python for automating data analysis tasks, increasing team productivity and streamlining workflows.
 
 **The Internship Studio — ML Intern -** Hyderabad, India | Jul 2020 - Aug 2020 
-- Applied data preprocessing techniques and performed exploratory data analysis (EDA) on automotive market data, uncovering insights into the feature-price relationships.
-- Supported predictive modeling efforts, utilizing statistical analysis and data visualization to deliver insights for market-based decision-making.
+- Performed data preprocessing and exploratory data analysis (EDA) on automotive market data, uncovering valuable insights into feature-price relationships.
+- Supported predictive modeling efforts and utilized statistical analysis and data visualization to assist market-driven decision-making.
 
 ## Projects
 
 ### Exploratory Data Analysis of Car
-
-**Objective: -**  Conducted comprehensive data preprocessing and EDA to analyze car features and their relationship to market prices. Leveraged the Kaggle “Car Features and MSRP” dataset to uncover key trends, including price dynamics across new and used vehicles in the U.S. from 1990 to 2017.
-- **Tech Stack: -** Python, Pandas, Seaborn, Matplotlib.
-This project deepened my expertise in working with complex datasets, performing descriptive statistics, and visualizing insights to support data-informed decision-making.
+**Objective:** Conducted comprehensive EDA on the Kaggle "Car Features and MSRP" dataset to analyze feature-price relationships, identifying trends across new and used vehicles in the U.S. (1990-2017).
+- **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
+- Delivered actionable insights by visualizing descriptive statistics and leveraging data trends for market analysis.
 
 ### [Exploring GCP Components for Data Ingestion & Analytics](https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?usp=sharing)
-
-**Objective: -** Designed a scalable data pipeline for ingesting Yelp batch data from Google Cloud Storage to BigQuery, utilizing Airflow DAGs and Dataflow. The pipeline parses JSON files stored in GCS and loads them into BigQuery for analytical processing.
-- **Tech Stack: -** GCP (BigQuery, GCS, Composer, Dataflow), Apache Beam, Python.
-This project enhanced my skills in using GCP for data ingestion, managing data workflows, and ensuring seamless data transfer for downstream analytics.
+**Objective:** Designed and implemented a scalable data pipeline to ingest Yelp batch data from Google Cloud Storage (GCS) into BigQuery using Airflow DAGs and Dataflow. 
+- **Tech Stack:** GCP (BigQuery, GCS, Composer, Dataflow), Apache Beam, Python
+- Improved data ingestion processes and ensured seamless data transfers for downstream analytical workloads.
 
 ### Library management system
-
-**Objective: -** Developed a web-based Library Management System for managing resources and user interactions. Built a robust backend using PHP and SQL, supporting dynamic content, user authentication, and a relational database.
-- **Tech Stack: -** HTML, CSS, JavaScript, PHP, SQL.
-This project showcased my full-stack skills, including database management and user-centric interface design.
+**Objective:** Developed a web-based application for managing library resources and user interactions.
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL
+- Delivered a dynamic, user-friendly system with secure authentication and efficient database management.
 
 ### Exchequer
-
-**Objective: -** Collaborated in an Agile team to implement and test key features in Java and C/C++.
-- **Role: -** Handled Bugs, Implemented new MFA Functionality using Java, Conducted unit and integration testing for reliability, participated in code reviews, and used Git for version control.
-This project refined my skills in multi-site team collaboration and maintaining code quality in complex systems.
+**Objective:** Collaborated with a multi-site Agile team to implement new MFA functionality and improve system reliability.
+- **Role:** Implemented features in Java, conducted unit and integration testing, resolved bugs, and maintained version control using Git.
+- **Tech Stack:** Java, C/C++, Git
 
 ## Publications
 
