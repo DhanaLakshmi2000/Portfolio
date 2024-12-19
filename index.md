@@ -27,9 +27,13 @@ I am a Computer Science graduate student at the University of Central Missouri, 
 ## Projects
 
 ### [Exploratory Data Analysis of Car](https://github.com/DhanaLakshmi2000/EDA_OF_CAR) 
-**Objective:** Conducted comprehensive EDA on the Kaggle "Car Features and MSRP" dataset to analyze feature-price relationships, identifying trends across new and used vehicles in the U.S. (1990-2017).
-- **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
-- Delivered actionable insights by visualizing descriptive statistics and leveraging data trends for market analysis.
+**Objective:** Conducted an advanced exploratory data analysis to uncover key trends and factors influencing car prices in the U.S. market, leveraging data-driven insights to support strategic decision-making in the automotive sector.
+- **Tech Stack:** Python (Pandas, NumPy), Visualization Tools (Seaborn, Matplotlib), Jupyter Notebook
+- **Algorithms Used:** Linear Regression,Polynomial Regression, Support Vector Machine,Decision Trees,Random Forest.
+- Identified key factors influencing car prices, such as brand, year, and mileage, providing actionable insights for market trend analysis.
+- Built visually appealing plots and dashboards to present findings, enhancing data-driven decision-making capabilities.
+- Utilized advanced data cleaning techniques to ensure data quality and consistency throughout the analysis.
+- Delivered an analytical framework that could be adapted for similar datasets in the automotive domain, showcasing flexibility and reusability.
 
 ### [Exploring GCP Components for Data Ingestion & Analytics](https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?usp=sharing)
 **Objective:** Designed and implemented a scalable data pipeline to ingest Yelp batch data from Google Cloud Storage (GCS) into BigQuery using Airflow DAGs and Dataflow. 
