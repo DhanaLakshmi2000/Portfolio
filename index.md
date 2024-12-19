@@ -26,7 +26,7 @@ I am a Computer Science graduate student at the University of Central Missouri, 
 
 ## Projects
 
-### Exploratory Data Analysis of Car
+### [Exploratory Data Analysis of Car](https://github.com/DhanaLakshmi2000/EDA_OF_CAR) 
 **Objective:** Conducted comprehensive EDA on the Kaggle "Car Features and MSRP" dataset to analyze feature-price relationships, identifying trends across new and used vehicles in the U.S. (1990-2017).
 - **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
 - Delivered actionable insights by visualizing descriptive statistics and leveraging data trends for market analysis.
@@ -46,6 +46,14 @@ I am a Computer Science graduate student at the University of Central Missouri, 
 - **Role:** Implemented features in Java, conducted unit and integration testing, resolved bugs, and maintained version control using Git.
 - **Tech Stack:** Java, C/C++, Git
 
+### [Chess Game: AI and Gameplay Development](https://github.com/DhanaLakshmi2000/chess)
+**Objective:** Built a fully functional chess game with AI capabilities and an intuitive user interface.
+- **Tech Stack:** Python, Pygame, Minimax Algorithm with Alpha-Beta Pruning
+- Designed and implemented chess rules and movement validation for all pieces.
+- Developed an AI opponent using the Minimax Algorithm, enhancing decision-making through Alpha-Beta Pruning.
+- Created a graphical user interface using Pygame, providing an engaging player experience.
+- Integrated multiplayer functionality and move tracking to enable detailed game analysis.
+- 
 ## Publications
 
 - **A Platform-Agnostic Framework for Automatically Identifying Performance Issues Reports with Heuristic Linguistic Patterns -**
