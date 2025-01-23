@@ -78,7 +78,7 @@ To leverage cutting-edge data science and cloud engineering skills to drive inno
 - Developed an AI opponent using the Minimax Algorithm, enhancing decision-making through Alpha-Beta Pruning.
 - Created a graphical user interface using Pygame, providing an engaging player experience.
 - Integrated multiplayer functionality and move tracking to enable detailed game analysis.
-- 
+  
 ## Publications
 
 - **A Platform-Agnostic Framework for Automatically Identifying Performance Issues Reports with Heuristic Linguistic Patterns -**
