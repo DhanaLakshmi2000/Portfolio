@@ -6,19 +6,33 @@ title: Dhanalakshmi Nangunuri
 # Dhanalakshmi Nangunuri
 
 ## About Me
-I am a Computer Science graduate student at the University of Central Missouri, specializing in data engineering and analytics. With 1.5 years of experience as an Associate Software Engineer, I have honed my skills in designing efficient data pipelines, optimizing workflows, and leveraging data-driven insights using technologies like Java, Python, SQL, and Google Cloud Platform (GCP). I am passionate about solving complex problems and building scalable data solutions that empower informed decision-making.
+A results-driven Computer Science graduate student with 1.5 years of professional experience, specializing in data engineering, machine learning, and cloud solutions. Proven track record of developing innovative data pipelines, implementing advanced ML models, and optimizing system performance across Google Cloud Platform and Azure.
 
 - **email -** nangunuri.dhanalakshmi@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-nangunuri/)
 
+## Key Strengths
+**Technical Expertise:** Python, Java, SQL, PySpark with strong skills in machine learning algorithms
+**Cloud Technologies:** Proficient in GCP services (Dataflow, Dataproc, Big Query)
+**Data Engineering:** Advanced ETL pipeline development, data preprocessing, and performance optimization
+**Machine Learning:** Regression, SVM, Decision Trees, Random Forest with proven 85% prediction accuracy
+
+## Professional Highlights
+- Optimized data processing on GCP, achieving 30% performance increase
+- Automated financial data validation, reducing manual verification time by 60%
+- Published IEEE research paper on performance issue identification
+- Developed robust data integration services maintaining 99.9% data accuracy
+## Career Goal: 
+To leverage cutting-edge data science and cloud engineering skills to drive innovative technological solutions in dynamic, challenging environments.
+
 ## Professional Experience
 
 **Advanced Business and Health Care Solutions — Associate Software Engineer -** Bangalore, India | Feb 2022 – Jul 2023 
-- Designed and implemented data pipelines for efficient ETL processes, enhancing data quality and accessibility.
-- Developed and optimized SQL queries, improving database performance by 20% and ensuring efficient data handling.
-- Built RESTful APIs using Java and Spring Boot to enable seamless data flow between systems.
-- Collaborated on full-stack development projects, leveraging data engineering expertise to integrate back-end Java services with React.js front-end components.
-- Utilized Python for automating data analysis tasks, increasing team productivity and streamlining workflows.
+-	Engineered robust ETL pipelines for financial data processing, implementing multi-factor authentication and security protocols that protected sensitive accounting data for 100,000+ users
+-	Optimized SQL Server performance by restructuring complex queries and implementing efficient indexing, reducing report generation time by 35%
+-	Developed and maintained Java-based data integration services, ensuring secure data flow between multiple financial systems while maintaining 99.9% data accuracy
+-	Automated financial data validation processes using Python scripts, reducing manual verification time by 60% and eliminating data inconsistencies
+- Collaborated in an Agile environment to implement data quality checks and monitoring systems, achieving 99% accuracy in financial reporting
 
 **The Internship Studio — ML Intern -** Hyderabad, India | Jul 2020 - Aug 2020 
 - Performed data preprocessing and exploratory data analysis (EDA) on automotive market data, uncovering valuable insights into feature-price relationships.
@@ -31,14 +45,20 @@ I am a Computer Science graduate student at the University of Central Missouri, 
 - **Tech Stack:** Python (Pandas, NumPy), Visualization Tools (Seaborn, Matplotlib), Jupyter Notebook
 - **Algorithms Used:** Linear Regression,Polynomial Regression, Support Vector Machine,Decision Trees,Random Forest.
 - Identified key factors influencing car prices, such as brand, year, and mileage, providing actionable insights for market trend analysis.
-- Built visually appealing plots and dashboards to present findings, enhancing data-driven decision-making capabilities.
-- Utilized advanced data cleaning techniques to ensure data quality and consistency throughout the analysis.
-- Delivered an analytical framework that could be adapted for similar datasets in the automotive domain, showcasing flexibility and reusability.
+- Executed comprehensive exploratory data analysis on 50,000+ automotive records using Python (Pandas, NumPy) and visualization tools
+- Developed machine learning models using scikit-learn (Linear Regression, Random Forest, SVM) achieving 85% prediction accuracy
+- Created interactive dashboards using Matplotlib and Seaborn to visualize key market trends and price indicators
+- Engineered feature preprocessing pipeline reducing data preparation time by 60% and improving model performance
+
 
 ### [Exploring GCP Components for Data Ingestion & Analytics](https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?usp=sharing)
 **Objective:** Designed and implemented a scalable data pipeline to ingest Yelp batch data from Google Cloud Storage (GCS) into BigQuery using Airflow DAGs and Dataflow. 
-- **Tech Stack:** GCP (BigQuery, GCS, Composer, Dataflow), Apache Beam, Python
-- Improved data ingestion processes and ensured seamless data transfers for downstream analytical workloads.
+**Tech Stack:** GCP (BigQuery, GCS, Composer, Dataflow), Apache Beam, Python
+- Cultivated ELT pipelines in Cloud DataFlow, achieving improvement in data migration efficiency from GCS to BigQuery.
+-	Implemented data engineering solutions tailored for the batch day to day incremental banking sector credit data.
+-	Optimized data processing and storage on GCP, utilizing Compute Engine and GCS, resulting in a 30% increase in performance.
+-	Resulted Spark applications in Python, implementing Apache Spark for RDBMS data processing, enhancing processing speed by 35%.
+-	Established CI/CD pipelines in GCP DevOps, resulting faster deployments and improved system reliability.
 
 ### Library management system
 **Objective:** Developed a web-based application for managing library resources and user interactions.
