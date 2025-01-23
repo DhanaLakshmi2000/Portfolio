@@ -22,6 +22,7 @@ A results-driven Computer Science graduate student with 1.5 years of professiona
 - Automated financial data validation, reducing manual verification time by 60%
 - Published IEEE research paper on performance issue identification
 - Developed robust data integration services maintaining 99.9% data accuracy
+
 ## Career Goal: 
 To leverage cutting-edge data science and cloud engineering skills to drive innovative technological solutions in dynamic, challenging environments.
 
