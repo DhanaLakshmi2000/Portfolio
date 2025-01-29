@@ -88,5 +88,7 @@ To leverage cutting-edge data science and cloud engineering skills to drive inno
 
 ## Certifications
 
+-[professional technical training in Certificate Program in Data Science]( https://verifyawards.stackroute.in/verify?url=https://awards.stackroute.in/public/assertions/h8rmMhhXRmmUWGbofK_ziQ.json?v=2_0 )
 - [Sql and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/4b37b68f2359422e9876e95af1a797de)
 - [Java 8 Practical approach](https://www.udemy.com/certificate/UC-f32165eb-82ec-4bb6-a45a-99e925195897/)
+  
