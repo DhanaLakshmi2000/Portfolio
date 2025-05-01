@@ -1,6 +1,6 @@
 title: Dhanalakshmi Nangunuri
 description: Gradute Student at University of central Missouri
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-cayman
 text_layout: centered
 nav_header: _data/navigation.yml # Specify the path to your custom navigation YAML file.
