@@ -17,13 +17,21 @@ Beyond pipelines and code, I thrive on cross-functional collaboration, having wo
 
 ## Key Strengths
 **Big Data Ecosystems:**	Apache Spark, Google BigQuery, Snowflake, Microsoft Fabric, Delta Lake
+
 **Databases:** Snowflake, Azure SQL Database, Google Cloud BigQuery, MySQL, Oracle, SQL Server
+
 **Languages:**	SQL, Python, PySpark, Java, DAX
+
 **Cloud Computing:**	Microsoft Azure (Data Factory, Dataflows, Synapse), Google Cloud Platform (GCP), AWS 
+
 **ETL & Reporting:**	Azure Data Factory, Snowflake Tasks & Streams, Microsoft Fabric Pipelines, Apache Airflow, Power BI, Tableau, Python
+
 **CI/CD:**	GitHub Actions, Azure DevOps, Git
+
 **Defect Management Tools:**	Jira, Azure Boards 
+
 **Others:**	Dimensional Modeling (Star/Snowflake schema), SCD, Data Quality Frameworks, Orchestration Tools (Airflow, Control-M)
+
 **Operating Systems:**	Windows, Linux 
 
 ## Professional Highlights
