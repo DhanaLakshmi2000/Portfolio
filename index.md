@@ -16,32 +16,61 @@ Beyond pipelines and code, I thrive on cross-functional collaboration, having wo
 - [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-nangunuri/)
 
 ## Key Strengths
-**Technical Expertise:** Python, Java, SQL, PySpark with strong skills in machine learning algorithms
-**Cloud Technologies:** Proficient in GCP services (Dataflow, Dataproc, Big Query)
-**Data Engineering:** Advanced ETL pipeline development, data preprocessing, and performance optimization
-**Machine Learning:** Regression, SVM, Decision Trees, Random Forest with proven 85% prediction accuracy
+**Big Data Ecosystems:**	Apache Spark, Google BigQuery, Snowflake, Microsoft Fabric, Delta Lake
+**Databases:** Snowflake, Azure SQL Database, Google Cloud BigQuery, MySQL, Oracle, SQL Server
+**Languages:**	SQL, Python, PySpark, Java, DAX
+**Cloud Computing:**	Microsoft Azure (Data Factory, Dataflows, Synapse), Google Cloud Platform (GCP), AWS 
+**ETL & Reporting:**	Azure Data Factory, Snowflake Tasks & Streams, Microsoft Fabric Pipelines, Apache Airflow, Power BI, Tableau, Python
+**CI/CD:**	GitHub Actions, Azure DevOps, Git
+**Defect Management Tools:**	Jira, Azure Boards 
+**Others:**	Dimensional Modeling (Star/Snowflake schema), SCD, Data Quality Frameworks, Orchestration Tools (Airflow, Control-M)
+**Operating Systems:**	Windows, Linux 
 
 ## Professional Highlights
-- Optimized data processing on GCP, achieving 30% performance increase
-- Automated financial data validation, reducing manual verification time by 60%
-- Published IEEE research paper on performance issue identification
-- Developed robust data integration services maintaining 99.9% data accuracy
+- Designed and implemented scalable data pipelines using Microsoft Fabric, Snowflake, and Apache Spark, enabling seamless ingestion and transformation of enterprise data across cloud 
+ platforms.
+- Developed end-to-end ELT workflows with Azure Data Factory, Snowflake Tasks, and Google BigQuery, ensuring structured and auditable data delivery for advanced analytics.
+- Built automated orchestration workflows using Apache Airflow and Control-M, improving scheduling reliability and reducing system downtime for complex data operations.
+- Engineered and enforced data quality frameworks involving validation rules for nulls, duplicates, referential integrity, and formatting—enhancing data trust and business reporting 
+  accuracy.
+- Created dynamic, real-time dashboards in Power BI and Tableau to visualize performance metrics, SLA adherence, and pipeline health, empowering decision-making with actionable insights.
+- Designed robust dimensional data models using Star Schema, Snowflake Schema, and Slowly Changing Dimensions (SCD) to support historical tracking and cross-domain analytics.
+- Automated CI/CD deployments for data pipelines using GitHub Actions and Azure DevOps, ensuring seamless delivery across development, staging, and production environments.
+- Collaborated with cross-functional teams to translate business requirements—especially in compliance-heavy industries—into technical specifications that improved accessibility and 
+  usability of data systems.
+- Achieved a 30% reduction in resolution time and significantly improved operational efficiency through automation, monitoring, and optimization of data ingestion frameworks.
 
 ## Career Goal: 
-To leverage cutting-edge data science and cloud engineering skills to drive innovative technological solutions in dynamic, challenging environments.
+To leverage my expertise in data engineering, cloud integration, and automation to build intelligent, scalable, and secure data solutions that drive real-world impact. I aim to contribute to organizations that prioritize innovation, efficiency, and data integrity—while continuously evolving my skills in modern platforms like Microsoft Fabric, Power Platform, Snowflake, and Apache Spark. My long-term goal is to lead cross-functional data initiatives that align technology with strategic business outcomes.
 
 ## Professional Experience
 
+**University of Central Missouri - Graduate Research Assistantship-** MO,US | April 2023 - April 2024
+- Designed and implemented an end-to-end data pipeline using Microsoft Fabric to extract, process, and analyze Jira tickets for identifying performance-related issues across multiple engineering teams.
+- Ingested ticket data from Jira’s REST API using Dataflows Gen2, and stored structured outputs in OneLake Lakehouse (Bronze layer) for further processing.
+- Developed data cleaning workflows with Power Query and normalized ticket details (e.g., summary, tags, resolution time) into Silver-layer tables.
+- Built a keyword-based classifier using PySpark in Notebooks to flag tickets related to performance issues by analyzing text patterns in summaries and descriptions.
+- Created calculated fields (e.g., % performance-related, avg resolution time) and promoted enriched insights into the Gold layer for reporting.
+- Developed an interactive Power BI dashboard within Fabric to visualize ticket trends, team-wise distributions, and hotspots for recurring performance concerns.
+- Automated data refresh cycles using Fabric Pipelines and monitored the entire process via Lineage View and trigger-based alerts.
+- Resulted in a 30% reduction in mean time-to-resolution for performance-related tickets and enabled targeted optimization efforts.
+
+
 **Advanced Business and Health Care Solutions — Associate Software Engineer -** Bangalore, India | Feb 2022 – Jul 2023 
--	Engineered robust ETL pipelines for financial data processing, implementing multi-factor authentication and security protocols that protected sensitive accounting data for 100,000+ users
--	Optimized SQL Server performance by restructuring complex queries and implementing efficient indexing, reducing report generation time by 35%
--	Developed and maintained Java-based data integration services, ensuring secure data flow between multiple financial systems while maintaining 99.9% data accuracy
--	Automated financial data validation processes using Python scripts, reducing manual verification time by 60% and eliminating data inconsistencies
-- Collaborated in an Agile environment to implement data quality checks and monitoring systems, achieving 99% accuracy in financial reporting
+-	Engineered a scalable PySpark-based ingestion framework that automated file ingestion from Dropbox into Hive data lakes, reducing manual data onboarding time by 70%.
+-	Developed reusable shell and HiveQL scripts to support ingestion pipelines across 5+ product lines, enabling metadata-driven processing with consistent data quality enforcement.
+-	Implemented parameterized ingestion logic via .properties files (e.g., delimiters, headers, key fields), increasing ingestion flexibility and enabling support for 10+ file formats without code rewrites.
+-	Automated daily ingestion workflows using Zena job scheduler, ensuring timely and reliable ingestion of critical datasets including high-priority eApp submissions with zero SLA breaches.
+-	Designed robust batch control utilities (batch_open.sh, batch_close.sh) to enforce process windows, monitor job states, and ensure end-to-end data integrity across all ingestion layers.
+-	Enabled real-time KPI validation during ingestion through kpi_run.sh, providing immediate insights into operational and compliance metrics at data landing time.
+-	Standardized ingestion directory structures and logic through detailed documentation and PoC collaboration (e.g., Value Momentum PoC), accelerating future onboarding by 40%.
+-	Established resilient logging and repair mechanisms to support self-healing pipelines, while promoting modular design for rapid scalability and easy maintenance across ingestion environments.
+
 
 **The Internship Studio — ML Intern -** Hyderabad, India | Jul 2020 - Aug 2020 
-- Performed data preprocessing and exploratory data analysis (EDA) on automotive market data, uncovering valuable insights into feature-price relationships.
-- Supported predictive modeling efforts and utilized statistical analysis and data visualization to assist market-driven decision-making.
+- Performed EDA on car datasets using Python (Pandas, Matplotlib, Seaborn); cleaned data, handled missing values and outliers, and applied feature engineering (correlation analysis, one-hot encoding, scaling) to improve dataset quality.
+- Built and evaluated ML models including Linear/Polynomial Regression, SVM, Decision Trees, and Random Forest to predict car prices; optimized using R², MSE, and feature importance analysis.
+- Reduced processing time through workflow optimization; visualized predictions and insights using Tableau and Matplotlib; delivered findings via interactive dashboards and stakeholder reports.
 
 ## Projects
 
@@ -59,11 +88,17 @@ To leverage cutting-edge data science and cloud engineering skills to drive inno
 ### [Exploring GCP Components for Data Ingestion & Analytics](https://docs.google.com/document/d/1I1qZivY2eeWfimANRpndZVb44Ti-bAqFSTgPSqB-YH4/edit?usp=sharing)
 **Objective:** Designed and implemented a scalable data pipeline to ingest Yelp batch data from Google Cloud Storage (GCS) into BigQuery using Airflow DAGs and Dataflow. 
 **Tech Stack:** GCP (BigQuery, GCS, Composer, Dataflow), Apache Beam, Python
-- Cultivated ELT pipelines in Cloud DataFlow, achieving improvement in data migration efficiency from GCS to BigQuery.
--	Implemented data engineering solutions tailored for the batch day to day incremental banking sector credit data.
--	Optimized data processing and storage on GCP, utilizing Compute Engine and GCS, resulting in a 30% increase in performance.
--	Resulted Spark applications in Python, implementing Apache Spark for RDBMS data processing, enhancing processing speed by 35%.
--	Established CI/CD pipelines in GCP DevOps, resulting faster deployments and improved system reliability.
+-  Designed and implemented scalable data pipelines for ingesting and processing large-scale datasets, including Yelp business reviews and real-time insurance claims.
+- Architected a fault-tolerant claims processing system using Apache Airflow, Apache Spark, and Apache Kafka, improving data accuracy to 80% and significantly reducing manual intervention.
+- Orchestrated end-to-end ETL workflows using Airflow to schedule, monitor, and manage tasks such as ingestion, validation, enrichment, and routing.
+- Developed Spark jobs in Python for distributed data transformations, ensuring real-time stream processing and high throughput via Kafka integration.
+- Leveraged Google BigQuery to store cleansed and validated data, applying referential integrity constraints and keys to reduce inconsistencies by 30%.
+- Collaborated with data science teams to integrate a fraud detection model within the Spark pipeline, achieving 95% accuracy in identifying suspicious claims and cutting manual review time by 50%.
+- Integrated pipeline outputs with legacy claims management systems using custom Python scripts and SQL-based data exchange for seamless adjudication and payment workflows.
+- Tuned Spark jobs through smart partitioning, caching, and resource optimization, achieving a 30% improvement in overall processing speed.
+- Embedded SQL-based data quality checks and compliance rules within Spark pipelines to ensure data reliability and regulatory adherence.
+- Developed unit tests and validation checks as part of a CI/CD pipeline to prevent data anomalies in production, reducing error rates by 40%.
+- Monitored and maintained pipeline reliability via Airflow’s web UI and custom dashboards, proactively identifying and resolving bottlenecks.
 
 ### Library management system
 **Objective:** Developed a web-based application for managing library resources and user interactions.
@@ -91,7 +126,9 @@ To leverage cutting-edge data science and cloud engineering skills to drive inno
 - [Check it out!](https://ieeexplore.ieee.org/abstract/document/10504708)
 
 ## Certifications
-
+-[Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/DhanalakshmiNangunuri-3778/D50CCCA79ABC2CDC?sharingId=70F1A013760D651E)
+-[Microsoft Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/DhanalakshmiNangunuri-2469/5425A5F070CEE857?sharingId=B59773C27A6A96F1
+)
 -[professional technical training in Certificate Program in Data Science]( https://verifyawards.stackroute.in/verify?url=https://awards.stackroute.in/public/assertions/h8rmMhhXRmmUWGbofK_ziQ.json?v=2_0 )
 - [Sql and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/4b37b68f2359422e9876e95af1a797de)
 - [Java 8 Practical approach](https://www.udemy.com/certificate/UC-f32165eb-82ec-4bb6-a45a-99e925195897/)
