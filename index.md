@@ -134,10 +134,10 @@ To leverage my expertise in data engineering, cloud integration, and automation 
 - [Check it out!](https://ieeexplore.ieee.org/abstract/document/10504708)
 
 ## Certifications
--[Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/DhanalakshmiNangunuri-3778/D50CCCA79ABC2CDC?sharingId=70F1A013760D651E)
--[Microsoft Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/DhanalakshmiNangunuri-2469/5425A5F070CEE857?sharingId=B59773C27A6A96F1
+- [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/DhanalakshmiNangunuri-3778/D50CCCA79ABC2CDC?sharingId=70F1A013760D651E)
+- [Microsoft Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/DhanalakshmiNangunuri-2469/5425A5F070CEE857?sharingId=B59773C27A6A96F1
 )
--[professional technical training in Certificate Program in Data Science]( https://verifyawards.stackroute.in/verify?url=https://awards.stackroute.in/public/assertions/h8rmMhhXRmmUWGbofK_ziQ.json?v=2_0 )
+- [professional technical training in Certificate Program in Data Science]( https://verifyawards.stackroute.in/verify?url=https://awards.stackroute.in/public/assertions/h8rmMhhXRmmUWGbofK_ziQ.json?v=2_0 )
 - [Sql and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/4b37b68f2359422e9876e95af1a797de)
 - [Java 8 Practical approach](https://www.udemy.com/certificate/UC-f32165eb-82ec-4bb6-a45a-99e925195897/)
   
