@@ -6,7 +6,11 @@ title: Dhanalakshmi Nangunuri
 # Dhanalakshmi Nangunuri
 
 ## About Me
-A results-driven Computer Science graduate student with 1.5 years of professional experience, specializing in data engineering, machine learning, and cloud solutions. Proven track record of developing innovative data pipelines, implementing advanced ML models, and optimizing system performance across Google Cloud Platform and Azure.
+I’m a versatile Data Engineer with over 3 years of experience designing and optimizing scalable data pipelines, workflow automations, and analytics solutions across enterprise environments. My expertise spans cloud-native platforms like Microsoft Fabric, Azure, and Google Cloud, where I’ve developed robust ETL/ELT workflows using tools such as Dataflows Gen2, Airflow, PySpark, and Snowflake.
+
+My work is centered on building clean, auditable, and performance-driven data systems that transform business operations—from automating ingestion pipelines to surfacing actionable insights in Power BI and Tableau. I have strong foundations in SQL, Python, DAX, and dimensional modeling (Star/Snowflake schemas, SCD), with hands-on experience implementing data quality frameworks and CI/CD automation using GitHub Actions and Azure DevOps.
+
+Beyond pipelines and code, I thrive on cross-functional collaboration, having worked closely with product, QA, and engineering teams to deliver impactful solutions that meet real-world needs. Whether it’s automating Jira analytics, streamlining healthcare ingestion, or visualizing KPIs, I approach every project with a mindset focused on efficiency, data integrity, and business alignment.
 
 - **email -** nangunuri.dhanalakshmi@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-nangunuri/)
