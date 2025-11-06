@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Dhanalakshmi Nangunuri
+title: Dhanalakshmi N
 ---
 
 
 📧 **Email:** [dln25de@gmail.com](mailto:dln25de@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-nangunuri/)
+🔗 [LinkedIn]([https://www.linkedin.com/in/dhanalakshmi-n2000/])
 
 ---
 
